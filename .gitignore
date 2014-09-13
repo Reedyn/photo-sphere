@@ -26,3 +26,6 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+Thumbs.db
+sphere_pano_icona-300x267.png
